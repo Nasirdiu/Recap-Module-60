@@ -1,0 +1,76 @@
+[
+  {
+    "id": "1",
+    "price": 437.3113,
+    "img": "https://avatars.mds.yandex.net/i?id=4e9f74bf914cdaa8576d4b6d46f37b7b-3584061-images-thumbs&n=13",
+    "name": "BMW "
+  },
+  {
+    "id": "2",
+    "price": 418.9684,
+    "img": "https://avatars.mds.yandex.net/i?id=acce7cd9ed21789a5d0414a352e67f63-4533077-images-thumbs&n=13",
+    "name": "BMW "
+  },
+  {
+    "id": "12",
+    "price": 438.3956,
+    "img": "https://avatars.mds.yandex.net/i?id=ffe14083c4e245c13a6d9c4916c6bfae-5754847-images-thumbs&n=13",
+    "name": "BMW "
+  },
+  
+  {
+    "id": "4",
+    "price": 465.0741,
+    "img": "https://avatars.mds.yandex.net/i?id=ffca63f2e67f01b7ebbcaa5ec2f985a6-5233239-images-thumbs&n=13",
+    "name": "BMW "
+  },
+  {
+    "id": "5",
+    "price": 449.5425,
+    "img": "https://avatars.mds.yandex.net/i?id=22d4219b982f7bc6755aa74baa2c57dc-5134720-images-thumbs&n=13",
+    "name": "BMW "
+  },
+  {
+    "id": "6",
+    "price": 409.5062,
+    "img": "https://avatars.mds.yandex.net/i?id=c3d610f2f577e34c10910fff64755274-5887629-images-thumbs&n=13",
+    "name": "BMW "
+  },
+  {
+    "id": "7",
+    "price": 432.3474,
+    "img": "https://avatars.mds.yandex.net/i?id=9ac4ff0c89f5fc2cdb7e1cf24d789a09-5500026-images-thumbs&n=13",
+    "name": "BMW "
+  },
+  {
+    "id": "8",
+    "price": 405.9534,
+    "img": "https://avatars.mds.yandex.net/i?id=b1ac8bcb894ab6d6f94dd3d444c38964-5231938-images-thumbs&n=13",
+    "name": "BMW "
+  },
+  {
+    "id": "9",
+    "price": 438.3956,
+    "img": "https://avatars.mds.yandex.net/i?id=877178f6722e2d8281cbbb39b2b52659-5545493-images-thumbs&n=13",
+    "name": "BMW "
+  },
+  {
+    "id": "10",
+    "price": 438.3956,
+    "img": "https://avatars.mds.yandex.net/i?id=bd8660d0024b8282b08fc578c5cd804d-5469021-images-thumbs&n=13",
+    "name": "BMW "
+  },
+  {
+    "id": "11",
+    "price": 438.3956,
+    "img": "https://avatars.mds.yandex.net/i?id=1200d21141d9307033f58337da2f3d13-5869106-images-thumbs&n=13",
+    "name": "BMW "
+  },
+  {
+    "id": "3",
+    "price": 410.5822,
+    "img": "https://avatars.mds.yandex.net/i?id=885ad87e9441e75fff2554d9655a73e7-5341088-images-thumbs&n=13",
+    "name": "BMW "
+  }
+  
+]
