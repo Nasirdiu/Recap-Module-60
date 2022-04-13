@@ -5,6 +5,9 @@ import Home from "./Pages/Home/Home/Home";
 import Header from "./Pages/Share/Header/Header";
 import About from "./Pages/Home/About/About";
 import Login from "./Pages/Home/Login/Login";
+import NotFound from "./Pages/Share/NotFound/NotFound";
+import Order from "./Pages/Order/Order";
+import Register from "./Pages/Home/Register/Register";
 function App() {
   return (
     <div>
@@ -14,6 +17,9 @@ function App() {
         <Route path="/home" element={<Home></Home>}></Route>
         <Route path="/about" element={<About></About>}></Route>
         <Route path="/login" element={<Login></Login>}></Route>
+        <Route path="/order" element={<Order></Order>}></Route>
+        <Route path="/register" element={<Register></Register>}></Route>
+        <Route path="*" element={<NotFound></NotFound>}></Route>
       </Routes>
     </div>
   );
