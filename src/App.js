@@ -8,6 +8,7 @@ import Login from "./Pages/Home/Login/Login";
 import NotFound from "./Pages/Share/NotFound/NotFound";
 import Order from "./Pages/Order/Order";
 import Register from "./Pages/Home/Register/Register";
+import Footer from "./Pages/Share/Footer/Footer";
 function App() {
   return (
     <div>
@@ -21,6 +22,7 @@ function App() {
         <Route path="/register" element={<Register></Register>}></Route>
         <Route path="*" element={<NotFound></NotFound>}></Route>
       </Routes>
+      <Footer></Footer>
     </div>
   );
 }

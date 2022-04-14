@@ -20,7 +20,7 @@ const Header = () => {
     signOut(auth);
   }
   return (
-    <Navbar bg="info" expand={false}>
+    <Navbar sticky="top" bg="info" expand={false}>
       <Container fluid>
         <Navbar.Brand as={Link} to="/home">
           <img src={logo} height="50px" alt="" />
